@@ -11,7 +11,11 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Add a `.env` file at the root of your directory with the `RESEND_API_KEY=re_123456789` key/value pair. Replace `re_123456789` with your API key from Resend.
+1. Define environment variables in `.env` file.
+
+```sh
+cp .env.example .env
+```
 
 2. Install dependencies:
 
