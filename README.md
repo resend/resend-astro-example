@@ -1,6 +1,6 @@
-# Resend with Node.js
+# Resend with Astro.
 
-This example shows how to use Resend with Astro Actions.
+This example shows how to use Resend with Astro Actions and Node.js.
 
 ## Prerequisites
 
